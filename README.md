@@ -9,7 +9,7 @@ I've been developing myself in the frontend field since 2019.
 * 🌍  I'm based in Istanbul/Turkey
 * ✉️  You can contact me at [ugrpektas@gmail.com](mailto:ugrpektas@gmail.com)
 * 🚀  I'm currently working on [NextJS , Typescript, Jest](http://nextjs-food-ordering-kappa.vercel.app/)
-* 🧠  I'm learning NextJS , Typescript, GraphQL Apollo and advanced React.js
+* 🧠  I'm learning NextJS , Typescript, Jest and advanced React.js
 * 🤝  I'm open to collaborating on content creation
 
 <a href="https://www.github.com/ugurpektas" target="_blank" rel="noreferrer"><img
